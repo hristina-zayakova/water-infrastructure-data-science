@@ -39,6 +39,12 @@ notebooks/   - main Jupyter notebook (full pipeline)
 data/        - raw datasets organized by source
 ```
 
+## Data
+
+The `data.zip` archive contains all datasets used in the analysis. Extract it 
+to the project root before running the notebook. The folder structure expected 
+by the notebook is preserved in the archive.
+
 ## What the Notebook Covers
 
 - Multi-source data loading, schema inspection, and harmonization across 
