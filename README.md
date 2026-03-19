@@ -72,4 +72,4 @@ infrastructure modeling.
 
 ## Notes
 
-Final exam project for the [Course Name] course at SoftUni.
+Final exam project for the Data Science course at SoftUni.
